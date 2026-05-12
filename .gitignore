@@ -18,6 +18,8 @@ npm-debug.log
 yarn-error.log
 composer.lock
 storage/debugbar/.gitignore
-.env
-firebase-auth.json
+/.env
+/firebase-auth.json
 *.pem
+*.sql
+app/logs/*.log
